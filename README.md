@@ -1,7 +1,9 @@
 Overview
+
 While my initial project deals with rule based chatbot, in this project I developed retrieval based chatbot. As the retrieval based chatbot needs more data to process, hereby scraped the data using beautiful soup from the wikipedia anout the Human Organs.
 
 Technical Aspect
+
 Machine Learning :
 
 Created the sentence list with the scraped data.
